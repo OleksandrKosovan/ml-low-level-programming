@@ -30,6 +30,7 @@ For population = 70,000, we predict a profit of 45342.450129*
 # 2. Linear Regression Multi
 
 **Code working**:
+
 `
 Plotting ...
 `
@@ -40,8 +41,7 @@ Plotting ...
 Theta computed from gradient descent:
  - 334302.063993
  - 100087.116006
- - 3673.548451
- *
+ - 3673.548451*
 
 *Predicted price of a 1650 sq-ft, 3 br house (using gradient descent):
  $289314.620338*
