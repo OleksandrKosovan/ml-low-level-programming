@@ -14,3 +14,32 @@
 
 ![alt txt](https://hackernoon.com/hn-images/0*8yzvd7QZLn5T1XWg.jpg)
 
+**Code working**:
+
+`
+Running warmUpExercise ...
+5x5 Identity Matrix:
+ans =
+Diagonal Matrix
+
+   1   0   0   0   0
+   0   1   0   0   0
+   0   0   1   0   0
+   0   0   0   1   0
+   0   0   0   0   1
+`
+
+`
+Plotting Data ...
+`
+![alt txt](https://github.com/OleksandrKosovan/ml-low-level-programming/blob/master/linear-regression/plot_page-0001.jpg)
+
+`
+Running Gradient Descent ...
+ans =  32.073
+Theta found by gradient descent: -3.630291 1.166362
+
+For population = 35,000, we predict a profit of 4519.767868
+For population = 70,000, we predict a profit of 45342.450129
+`
+
