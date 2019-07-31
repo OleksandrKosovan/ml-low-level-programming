@@ -8,4 +8,4 @@
 
 **Cost function**
 
-`J\left ( O \right ) = \frac{1}{2m}\sum_{i=1}^{m}\left ( h_{O}(x^{(i)}) - y^{(i)} \right )^2`
+![alt txt](https://www.oreilly.com/library/view/deep-learning-quick/9781788837996/assets/39a93548-a5c8-42d4-8696-f1cac167f5b9.png)
