@@ -1,8 +1,6 @@
 %% Machine Learning Online Class
 %  Exercise 1: Linear regression with multiple variables
 
-%
-
 %% Initialization
 
 %% ================ Part 1: Feature Normalization ================
